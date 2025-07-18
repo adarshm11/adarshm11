@@ -24,7 +24,7 @@ i'm currently a junior computer science major at san jose state university and a
 
 - [quakesafe](https://github.com/adarshm11/QuakeSafe): ai-powered mobile app enhancing earthquake safety and awareness
 - [quickcal](https://github.com/adarshm11/QuickCal): macOS toolbar application to facilitate enhanced calendar event creation via ai-powered automation
-- [sce led matrix](https://github.com/SCE-Development/LedMatrix): multifunctional led panel displaying leetcode status and club announcements for club with 200+ members
+- [sce led matrix](https://github.com/SCE-Development/LedMatrix): multifunctional led panel displaying leetcode stats and club announcements for club with 200+ members
 - [sce card reader](https://github.com/SCE-Development/RFID-door-lock): full-stack software managing an office door key card authenticator with 20+ registered cards
 
 ## programming skills
