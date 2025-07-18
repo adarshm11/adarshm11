@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 i'm currently a junior computer science major at san jose state university and an officer at sjsu's biggest engineering club, the software and computer engineering society. i love going to hackathons and building stuff. 
 
+## experience
+- swe intern at u.s. department of defense: building automation software for testing procedures at the joint interoperability test command (jitc)
+- officer at sjsu sce on dev team and ai/ml team
+
 ## projects
 
 - [quakesafe](https://github.com/adarshm11/QuakeSafe): ai-powered mobile app enhancing earthquake safety and awareness
