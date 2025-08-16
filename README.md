@@ -22,7 +22,7 @@ i'm currently a junior computer science major at san jose state university and a
 
 ## projects
 
-- [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness
+- [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness with real-time site evaluations and advice
 - [quickcal](https://github.com/adarshm11/QuickCal) - macOS toolbar application to facilitate enhanced calendar event creation via ai-powered automation
 - [gatorguard](https://github.com/adarshm11/GatorGuard) - web monitoring browser extension designed to optimize user productivity and reduce burnout
 - [sce led matrix](https://github.com/SCE-Development/LedMatrix) - multifunctional led panel displaying leetcode stats and club announcements for club with 200+ members
