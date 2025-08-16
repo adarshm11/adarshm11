@@ -29,7 +29,7 @@ i'm currently a junior computer science major at san jose state university and a
 - [sce card reader](https://github.com/SCE-Development/RFID-door-lock) - full-stack software managing an office door key card authenticator with 20+ registered cards
 
 ## programming skills
-- **languages**: python, javascript, java, swift, go, c/c++, java
+- **languages**: python, javascript, java, swift, go, c/c++
 - **databases/frameworks**: sql, mongodb, react.js, express.js, firebase, fastapi, flask
 - **dev tools**: git, linux, docker, vs code, xcode, aws, google cloud
 
