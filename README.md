@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 i'm currently a junior computer science major at san jose state university and an officer at sjsu's biggest engineering club, the [software and computer engineering society](https://github.com/SCE-Development). i love going to hackathons and building stuff. 
 
 ## experience
-- swe intern at u.s. department of defense: building automation software for testing procedures at the joint interoperability test command (jitc)
+- swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
 - development team officer, ai/ml team member at sjsu sce
 
 ## projects
@@ -25,7 +25,7 @@ i'm currently a junior computer science major at san jose state university and a
 - [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness with real-time site evaluations and advice
 - [quickcal](https://github.com/adarshm11/QuickCal) - macOS toolbar application to facilitate enhanced calendar event creation via ai-powered automation
 - [gatorguard](https://github.com/adarshm11/GatorGuard) - web monitoring browser extension designed to optimize user productivity and reduce burnout
-- [sce led matrix](https://github.com/SCE-Development/sign2) - multifunctional led panel displaying leetcode leaderboard for club with 200+ members
+- [sce leetcode leaderboard](https://github.com/SCE-Development/sign2) - raspberry pi-controlled led matrix displaying leetcode leaderboard for club with 200+ members
 - [sce card reader](https://github.com/SCE-Development/RFID-door-lock) - full-stack software managing an office door key card authenticator with 20+ registered cards
 
 ## programming skills
