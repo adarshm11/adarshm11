@@ -22,6 +22,7 @@ i'm currently a junior computer science major at san jose state university and a
 
 ## projects
 
+- [marketmind](https://github.com/adarshm11/MarketMind) - one-click marketing tool for burgeoning startups in any industry, winner at sce hacks 2025
 - [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness with real-time site evaluations and advice
 - [quickcal](https://github.com/adarshm11/QuickCal) - macOS toolbar application to facilitate enhanced calendar event creation via nlp-powered, rag-optimized automation
 - [gatorguard](https://github.com/adarshm11/GatorGuard) - web monitoring browser extension designed to optimize user productivity and reduce burnout
