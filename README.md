@@ -18,7 +18,7 @@ i'm currently a junior computer science major at san jose state university and a
 
 ## experience
 - swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
-- development team officer, ai/ml team member at sjsu sce
+- officer at sjsu sce: working on dev, ai/ml teams
 
 ## projects
 
@@ -30,7 +30,7 @@ i'm currently a junior computer science major at san jose state university and a
 - [sce card reader](https://github.com/SCE-Development/RFID-door-lock) - full-stack software managing an office door key card authenticator with 20+ registered cards
 
 ## technical skills
-- **languages**: python, javascript, java, swift, go, c/c++
+- **languages**: python, go, javascript/typescript, java, swift, c/c++
 - **databases/frameworks**: sql, mongodb, react.js, express.js, firebase, fastapi, flask
 - **dev tools**: git, linux, docker, vs code, xcode, aws, google cloud
 
