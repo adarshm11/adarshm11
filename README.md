@@ -27,7 +27,7 @@ i'm currently a junior computer science major at san jose state university and a
 - [quickcal](https://github.com/adarshm11/QuickCal) - macOS toolbar application to facilitate enhanced calendar event creation via nlp-powered, rag-optimized automation
 - [gatorguard](https://github.com/adarshm11/GatorGuard) - web monitoring browser extension designed to optimize user productivity and reduce burnout
 - [sce leetcode leaderboard](https://github.com/SCE-Development/sign2) - raspberry pi-controlled led matrix displaying leetcode leaderboard for club with 200+ members
-- [sce card reader](https://github.com/SCE-Development/RFID-door-lock) - full-stack software managing an office door key card authenticator with 20+ registered cards
+- [sce card reader](https://github.com/SCE-Development/RFID-door-lock) - full-stack software managing an office door key card authenticator with 40+ registered cards
 
 ## technical skills
 - **languages**: python, go, javascript/typescript, java, swift, c/c++
