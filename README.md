@@ -18,7 +18,7 @@ i'm currently a junior computer science major at san jose state university and a
 
 ## experience
 - swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
-- officer at sjsu sce: working on dev, ai/ml teams
+- officer at sjsu sce: dev, ai/ml teams
 
 ## projects
 
