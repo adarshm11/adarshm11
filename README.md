@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i'm currently a junior computer science major at san jose state university and an officer at sjsu's biggest engineering club, the [software and computer engineering society](https://sce.sjsu.edu).
+i'm currently a junior computer science major at san jose state university.
 
 ## experience
 - swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
-- officer at sjsu sce: dev, ai/ml teams
+- officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu): officer, dev, ai/ml teams
 
 ## projects
 
