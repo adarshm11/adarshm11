@@ -23,6 +23,7 @@ i'm currently a junior computer science major at san jose state university.
 ## projects
 
 - [marketmind](https://github.com/adarshm11/MarketMind) - one-click marketing tool for burgeoning startups in any industry, winner at sce hacks 2025
+- [goderpad](https://github.com/adarshm11/goderpad) - interactive coding pad tool designed for use by sjsu sce
 - [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness with real-time site evaluations and advice
 - [quickcal](https://github.com/adarshm11/QuickCal) - macOS toolbar application to facilitate enhanced calendar event creation via nlp-powered, rag-optimized automation
 - [sce leetcode leaderboard](https://github.com/SCE-Development/sign2) - raspberry pi-controlled led matrix displaying leetcode leaderboard for club with 200+ members
