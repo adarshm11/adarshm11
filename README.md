@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 i'm currently a junior computer science major at san jose state university.
 
 ## experience
+- incoming swe intern at google
 - swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
 - officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu): dev, ai/ml teams
 
