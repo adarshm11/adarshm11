@@ -18,7 +18,7 @@ i'm currently a junior computer science major at san jose state university.
 
 ## some places i've worked
 - incoming swe intern at google
-- swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
+- swe intern at u.s. department of defense
 - officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu): dev, ai/ml teams
 
 ## some stuff i've worked on
