@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 i'm currently a junior computer science major at san jose state university.
 
-## experience
+## some places i've worked
 - incoming swe intern at google
 - swe intern at u.s. department of defense: built tcp-based remote interfaces and automation software for the joint interoperability test command (jitc)
 - officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu): dev, ai/ml teams
 
-## projects
+## some stuff i've worked on
 
 - [marketmind](https://github.com/adarshm11/MarketMind) - one-click marketing tool for burgeoning startups in any industry, winner at sce hacks 2025
 - [goderpad](https://github.com/adarshm11/goderpad) - interactive coding pad tool designed for use by sjsu sce
 - [quakesafe](https://github.com/adarshm11/QuakeSafe) - ai-powered mobile app enhancing earthquake safety and awareness with real-time site evaluations and advice
 - [sce leetcode leaderboard](https://github.com/SCE-Development/sign2) - raspberry pi-controlled led matrix displaying leetcode leaderboard for club with 200+ members
 
-## technical skills
+## some stuff i've worked with
 - **languages**: python, go, javascript/typescript, java, swift, c/c++
 - **databases/frameworks**: sql, mongodb, react.js, express.js, firebase, fastapi, flask
 - **dev tools**: git, linux, docker, vs code, xcode, aws, google cloud
 
-## contact me
+## some ways to reach me
 feel free to reach out to me on [linkedin](https://linkedin.com/in/adarshm11) or via email at adarsh.mallya@sjsu.edu
