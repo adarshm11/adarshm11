@@ -19,7 +19,7 @@ i'm currently a junior computer science major at san jose state university.
 ## some places i've worked
 - incoming swe intern at google
 - swe intern at u.s. department of defense
-- officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu): dev, ai/ml teams
+- officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu)
 
 ## some stuff i've worked on
 
