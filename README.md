@@ -31,7 +31,7 @@ i'm currently a junior computer science major at san jose state university.
 ## some stuff i've worked with
 - **languages**: python, go, javascript/typescript, java, swift, c/c++
 - **databases/frameworks**: sql, mongodb, react.js, express.js, firebase, fastapi, flask
-- **dev tools**: git, linux, docker, vs code, xcode, aws, google cloud
+- **dev tools**: git, linux, docker, kubernetes, aws, google cloud
 
 ## some ways to reach me
 feel free to reach out to me on [linkedin](https://linkedin.com/in/adarshm11) or via email at adarsh.mallya@sjsu.edu
