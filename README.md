@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 i'm currently a junior computer science major at san jose state university.
 
 ## some places i've worked
-- incoming swe intern at google
+- swe intern at google
 - swe intern at u.s. department of defense
 - officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu)
 
