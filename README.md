@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i'm currently a junior computer science major at san jose state university.
+i'm currently a senior computer science major at san jose state university.
 
 ## some places i've worked
 - swe intern at google
