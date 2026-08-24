@@ -3,6 +3,7 @@
 i'm a senior computer science major at san jose state university.
 
 ## some places i've worked
+- swe intern at tesla
 - swe intern at google
 - swe intern at u.s. department of defense
 - officer at the sjsu [software and computer engineering society](https://sce.sjsu.edu)
